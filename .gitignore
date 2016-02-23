@@ -1,0 +1,8 @@
+*.pbxuser
+*.xcuserstate
+*.xcuserdatad
+*.voice
+/build/
+/DerivedData/
+xcuserdata
+Build
